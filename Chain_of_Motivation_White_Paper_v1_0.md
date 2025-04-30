@@ -108,5 +108,34 @@ AGI will not emerge from logic alone. It will arise from the **motivated pursuit
 
 ## 📜 License
 
-This work, including the **Chain of Motivation** framework, is licensed under the MIT License.  
-Public disclosure at: [Motivation-Driven-AGI GitHub Repository](https://github.com/rfigurelli/Motivation-Driven-AGI/)
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright © 2025 Rogério Figurelli
+
+This repository contains original written and graphical materials (the “Work”),
+including—but not limited to—white papers, articles, diagrams, and supporting files
+that disclose conceptual frameworks and reference architectures.
+
+You are free to:
+
+• Share — copy and redistribute the Work in any medium or format  
+• Adapt — remix, transform, and build upon the Work for any purpose, even commercially  
+
+Under the following terms:
+
+1. Attribution — Cite “Rogério Figurelli”, link to this license, and state if
+   changes were made.  
+   Preferred citation: Figurelli, R. “<Title>”, v <version>, <year>, URL/DOI.
+
+2. No additional restrictions — You may not apply legal terms or technological
+   measures that legally restrict others from doing anything the license permits.
+
+The full legal text of CC BY 4.0 is available at:  
+<https://creativecommons.org/licenses/by/4.0/legalcode>
+
+THE WORK IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT
+HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
